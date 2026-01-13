@@ -63,4 +63,9 @@ Gem::Specification.new do |s|
   ]
 
   s.require_paths = ['lib']
-end
+end{
+  "errorCode": "unauthorized",
+  "errorId": "cf-worker",
+  "message": "unauthorized - Unable to route request from Cloudflare.",
+  "httpStatusCode": 401
+}
